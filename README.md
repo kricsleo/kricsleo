@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Do not follow or star my projects, they all are just for fun. :)
+Do not follow or star my projects, they are just for fun. :)
 
 <!--
 **kricsleo/kricsleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
