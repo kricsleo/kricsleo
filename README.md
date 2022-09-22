@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-### Enjoying Open Source, feeding Back.
+### Enjoying Open Source, and Feeding Back.
